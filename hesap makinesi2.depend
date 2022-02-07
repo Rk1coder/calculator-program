@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636388215 source:c:\users\kıratlı\desktop\1\hesap makinesi2\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
